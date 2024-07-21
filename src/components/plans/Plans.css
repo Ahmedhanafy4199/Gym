@@ -18,7 +18,8 @@
     right: 0;
     top: 10rem;
 }
-
+/* 
+// to log results (for example: reportWebVitals(console.log)) */
 .plans{
     display: flex;
     align-items: center;

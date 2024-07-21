@@ -10,7 +10,8 @@ import Testimoniols from './components/testimoniols/Testimoniols';
 function App() {
   return (
     <div className="App">
-          <Hero/>
+          <Hero/> 
+          {/* component */}
           <Programs/>
           <Reasons/>
           <Plans/>

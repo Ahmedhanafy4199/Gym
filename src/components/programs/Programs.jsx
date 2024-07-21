@@ -31,4 +31,5 @@ const Programs = () => {
   )
 }
 
+// to log results (for example: reportWebVitals(console.log))
 export default Programs

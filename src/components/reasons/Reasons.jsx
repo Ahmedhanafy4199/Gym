@@ -10,6 +10,8 @@ import adidas from '../../assets/adidas.png'
 import nike from '../../assets/nike.png'
 
 const Reasons = () => {
+    
+// to log results (for example: reportWebVitals(console.log))
   return (
     <div className="Reasons" id="reasons">
         <div className="left-r">

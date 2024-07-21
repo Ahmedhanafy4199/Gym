@@ -84,4 +84,5 @@ const Header = () => {
   );
 };
 
+// to log results (for example: reportWebVitals(console.log))
 export default Header;

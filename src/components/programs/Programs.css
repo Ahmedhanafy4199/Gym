@@ -30,6 +30,8 @@
     border-radius: 20px;
     transition: var(--transition);
 }
+/* 
+// to log results (for example: reportWebVitals(console.log)) */
 .cateogry>:nth-child(1){
     width: 2rem;
     height: 2rem;

@@ -32,7 +32,7 @@ const Plans = () => {
                     </div>
 
                     <div >
-                        <span >See more benefits -></span>
+                        <span >See more benefits </span>
                         <div className='btn-div'>
                             <button className="btn">Join now</button>
                         </div>
@@ -44,4 +44,5 @@ const Plans = () => {
   )
 }
 
+// to log results (for example: reportWebVitals(console.log))
 export default Plans

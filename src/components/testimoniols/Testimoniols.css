@@ -55,6 +55,8 @@
     right: 7rem;
     top: 4rem;
 }
+
+/* to log results (for example: reportWebVitals(console.log)) */
 .arrows{
     display: flex;
     gap: 1rem;

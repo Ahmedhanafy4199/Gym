@@ -118,4 +118,5 @@ const Hero = () => {
   );
 };
 
+// to log results (for example: reportWebVitals(console.log))
 export default Hero;

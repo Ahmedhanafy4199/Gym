@@ -57,3 +57,7 @@ export const plansData = [
     ],
   },
 ];
+
+
+
+// to log results (for example: reportWebVitals(console.log))

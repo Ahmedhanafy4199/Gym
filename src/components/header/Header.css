@@ -18,7 +18,8 @@
     transition: 1000ms;
 }
 
-
+/* 
+// to log results (for example: reportWebVitals(console.log)) */
 /*------------------- media query for small devices ------------------------*/
 
 @media screen and (max-width:768px) {

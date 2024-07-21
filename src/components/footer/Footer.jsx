@@ -25,4 +25,5 @@ const Footer = () => {
   );
 };
 
+// to log results (for example: reportWebVitals(console.log))
 export default Footer;

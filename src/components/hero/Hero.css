@@ -88,6 +88,9 @@
 .hero-buttons>:nth-child(1):hover{
     background: transparent;
 }
+
+/* 
+// to log results (for example: reportWebVitals(console.log)) */
 .hero-buttons>:nth-child(2){
     color: white;
     background: transparent;

@@ -23,3 +23,5 @@ export const testimonialsData = [
     status: "CUSTOMER"
   }
 ];
+
+// to log results (for example: reportWebVitals(console.log))
